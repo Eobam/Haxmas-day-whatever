@@ -1,0 +1,9 @@
+name = "santas_stats-api"
+main = "src/index.ts"
+compatibility_date = "2024-12-16"
+compatibility_flags = ["nodejs_compat"]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "main-db"
+database_id = "87d2a145-535f-46b9-b7b9-fd1965e9e934"
